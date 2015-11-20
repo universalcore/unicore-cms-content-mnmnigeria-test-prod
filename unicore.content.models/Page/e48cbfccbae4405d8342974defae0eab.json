@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Lorem ipsum dolor sit amet", 
+  "language": "eng_GB", 
+  "title": "Sample article", 
+  "primary_category": "535047f8bb9643d0bd973bda850db247", 
+  "created_at": "2015-07-23T16:30:37.351927+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-23T16:30:37.352342+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Lorem ipsum dolor sit amet, oportere petentium duo ei. Quo labores graecis praesent cu, assentior intellegebat mei cu. Modus recteque gloriatur in cum. Meis tollit inermis ei nam, ut ius iusto tollit appareat. Et mandamus forensibus sea. Vide commodo interesset pro no, duo an ludus contentiones. Probo mundi neglegentur eum cu, vis hinc bonorum ea.\r\n\r\nEt vim putant audire integre. Pri quidam impedit ne. Ad ubique semper mea, ei sea case munere molestiae. Duo oratio probatus no, commodo fastidii deleniti mea cu. Aeque paulo veritus in vis, eos erant paulo nostrud eu. Eum ea graeci urbanitas efficiendi, in eum quas choro conclusionemque.\r\n\r\nAd vel doming vocent diceret, ut quod meis petentium qui, propriae consequat te sea. Ne pro amet duis quando, offendit facilisis nam et. Ex pri voluptua partiendo suscipiantur, ex mutat perpetua vis. Pri debet ocurreret in, an quo detracto qualisque consetetur, usu velit labore inciderint eu. Eu vel vivendum electram postulant.\r\n\r\nAd vis ludus putent, sea omnium accusata argumentum te. Duis mazim efficiantur eu mea, ea iuvaret nostrum definiebas nec. No mea augue nostro mnesarchum. Nemore aeterno in mea, solum definiebas elaboraret mel an, summo nobis evertitur at vix. His etiam blandit insolens te, est ea rebum viris, oratio recusabo an eam.\r\n\r\nEt mel labores veritus, est aperiam maiestatis an, has ex illum latine comprehensam. Ad sanctus molestie honestatis has, adhuc iuvaret epicurei pro ei. Ex altera regione nam, ea solum mentitum eos. Omnes oblique eu vix, pro dicat molestie at. Ad oratio denique instructior pro, an mea congue adipisci, ex tamquam alterum iudicabit vis.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "sample-article", 
+  "uuid": "e48cbfccbae4405d8342974defae0eab"
+}

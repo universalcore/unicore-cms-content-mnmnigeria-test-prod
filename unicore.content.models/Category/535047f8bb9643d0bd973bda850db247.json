@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "535047f8bb9643d0bd973bda850db247", 
+  "language": "eng_GB", 
+  "title": "Sample Category", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "sample-category", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
